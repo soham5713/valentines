@@ -39,7 +39,7 @@ a {
   display: none;
   color: rgb(196, 255, 255);
   font-size: 16px;
-  margin-top: 80px;
+  margin-top: 85px;
   line-height: 60px;
   font-size: 45px;
   font-weight: bolder;
@@ -49,7 +49,7 @@ a {
   position: absolute;
   left: -40px;
   top: 620px;
-  font-size: 28px;
+  font-size: 20px;
   display: none;
 }
 
